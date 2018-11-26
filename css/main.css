@@ -27,6 +27,7 @@
     border-radius: 0;
 } 
 
-.team {
+.team, footer {
     background: #30336b;
 }
+
